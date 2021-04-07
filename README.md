@@ -44,4 +44,8 @@ Finally
 
 
 ## if installed correctly
-<img style="padding-top:30px;width:100%;height:100%;" src="/images/loveVersion.png" alt="Version Love2d">
+Directory of game. Run game
+<img style="padding-top:30px;width:100%;height:100%;" src="/images/runLove.png" alt="Run love">
+
+## First game
+<img style="padding-top:30px;width:100%;height:100%;" src="/images/game.png" alt="Game">
