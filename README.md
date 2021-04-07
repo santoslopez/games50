@@ -4,9 +4,10 @@ as you explore the design of games such as Super Mario Bros., Pokémon, Angry Bi
 
 
 ## Autor
-Course by **Harvard University**.
+Course by **Harvard University**
 Instructor **Colton Ogden**
 Examples **Colton Odgen**
+
 
 ## Download
 Hi there! LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android and iOS.
@@ -14,10 +15,10 @@ Hi there! LÖVE is an *awesome* framework you can use to make 2D games in Lua. I
 
 
 ### Installing
-Move downloaded file to applications directory. **Example: **
+Move downloaded file to applications directory. **Example:**
 <img style="padding-top:30px;width:100%;height:100%;" src="/images/love.png" alt="love">
 
-**Now, if your OS is: **
+**Now, if your OS is:**
 
 Mac OS X
 
@@ -30,6 +31,17 @@ Example:
 <img style="padding-top:30px;width:100%;height:100%;" src="/images/exportPath.png" alt="Export path">
 
 [More information](https://love2d.org/wiki/PATH).
+
+OR Command Line Aliases
+Open file **.zshrc**
+<img style="padding-top:30px;width:100%;height:100%;" src="/images/nano.png" alt="Nano">
+Create alias in file
+<img style="padding-top:30px;width:100%;height:100%;" src="/images/exportPath2.png" alt="Export path">
+**Save changes**
+
+Finally
+<img style="padding-top:30px;width:100%;height:100%;" src="/images/source.png" alt="Source">
+
 
 ## if installed correctly
 <img style="padding-top:30px;width:100%;height:100%;" src="/images/loveVersion.png" alt="Version Love2d">
