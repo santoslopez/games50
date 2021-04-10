@@ -49,3 +49,12 @@ Directory of game. Run game
 
 ## First game
 <img style="padding-top:30px;width:100%;height:100%;" src="/images/game.png" alt="Game">
+
+
+## Sound for Game
+[BFXR](https://www.bfxr.net)
+[SFXR](https://sfxr.me)
+
+
+
+
